@@ -1,0 +1,11 @@
+/* src/components/Aurora.css */
+.aurora-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1; /* Pushes it behind all your other content */
+  pointer-events: none; /* Allows mouse clicks to pass through */
+  opacity: 0.6; /* Softens the effect a bit */
+}

@@ -1,0 +1,6 @@
+/* src/components/DecryptedText.css */
+.decrypted-text {
+  /* This helps the text look more "digital" during the animation */
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
